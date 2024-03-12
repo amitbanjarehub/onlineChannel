@@ -1,21 +1,3 @@
-// import { useState } from 'react'
-// import reactLogo from './assets/react.svg'
-// import viteLogo from '/vite.svg'
-// // import './App.css'
-// import './index.css'
-
-// function App() {
-
-
-//   return (
-//     <div>
-//       <h1 className="bg-slate-400 text-teal-300 text-center">My Demo Project</h1>
-//       <img src='https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png' ></img>
-//     </div>
-//   )
-// }
-
-// export default App
 
 import React from 'react'
 import { Link } from 'react-router-dom'
